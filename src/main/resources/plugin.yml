@@ -1,0 +1,5 @@
+name: MessageSounds
+version: '${project.version}'
+main: dev.goldenedit.messagesounds.MessageSounds
+api-version: '1.20'
+depend: [ Essentials ]
